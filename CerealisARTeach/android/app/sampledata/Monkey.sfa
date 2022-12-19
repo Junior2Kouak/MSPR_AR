@@ -1,0 +1,225 @@
+{
+  materials: [
+    {
+      name: 'Material',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 0.089087,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: './sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Material.001',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 0.089087,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: './sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Material.002',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.80000000000000004,
+            0.042546,
+            0.034689999999999999,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 0.089087,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: './sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Material.003',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.80000000000000004,
+            0.80000000000000004,
+            0.80000000000000004,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 0.089087,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: './sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Material.005',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 0.089087,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: './sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Material.006',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            1,
+            0.43073099999999998,
+            0.244676,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 0.089087,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: './sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Material.007',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.10242,
+            0.030504,
+            0.0031939999999999998,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 0.30520999999999998,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: './sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Pelo_Mani',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.236871,
+            0.33998800000000001,
+            0.40090199999999998,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 0.089087,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: './sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: './input/Monkey.obj',
+    name: 'Monkey',
+    recenter: 'root',
+    scale: 0.74701499999999998,
+  },
+  version: '0.54:2',
+}
